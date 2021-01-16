@@ -33,6 +33,7 @@ namespace DegerVeRefaransTipler
             //sayilar1 = sayilar2 yapınca sayilar1 in referans numarasını 102 ye eşitler. 
             //sayilar2 ye 999 değerini atayınca referans değerini 999 olarak atar.
             //sayilar1 i sayılar2 ye eşitlediğimiz içinde sayilar1 in referans değerini de 999 olarak atar.
+            //
 
         }
 
